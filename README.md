@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Technologies and tools
-![](https://img.shields.io/badge/<Language>-<C++>-informational?style=flat&logo=<#00599C>&logoColor=white&color=2bbc8a)
-
-
-
+![](https://img.shields.io/badge/Language-C++-informational?style=plastic&logo=cplusplus&logoColor=00599C&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnubash&logoColor=white&color=2bbc8a)
