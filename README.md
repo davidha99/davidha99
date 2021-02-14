@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## Technologies and tools
+![](https://img.shields.io/badge/<Language>-<C++>-informational?style=flat&logo=<#00599C>&logoColor=white&color=2bbc8a)
+
 
 
