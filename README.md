@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - CTFs
 - Penetration testing
 
-#### **Relevant accredited courses:**  
+#### **Relevant knowledge:**  
 - Object Oriented Programming.
 - Data Structures.
 - Algorithms Analysis and Design.
